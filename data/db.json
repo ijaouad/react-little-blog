@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Let's Learn React",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore, suscipit magni fugit aperiam doloribus voluptatibus nemo, magnam, odit eligendi amet blanditiis. Repudiandae eligendi praesentium, cum earum illum et fuga eaque molestiae veritatis atque cupiditate necessitatibus eveniet. Perferendis perspiciatis voluptatem nisi explicabo dolorem tempora eius ducimus. Esse id consequuntur dolore nihil aliquid, molestias ad blanditiis a laborum illo, debitis praesentium maiores cupiditate tempora vitae culpa voluptas. Nam mollitia aut omnis sequi facilis voluptatibus voluptas. Assumenda quis exercitationem sint laboriosam repellat officia praesentium quos, quisquam, dolor, temporibus aliquid. Odio eveniet voluptatibus quo numquam omnis repellendus at iste totam eaque quos nostrum ducimus nisi, nobis unde. Inventore, atque impedit nam corrupti optio ex commodi hic, laudantium fugit odio, veritatis consequuntur magni expedita repudiandae. Sit ullam doloremque magni, maiores porro distinctio esse cumque eum.",
+      "author": "JAOUAD"
+    },
+    {
+      "id": 2,
+      "title": "Master React Dev",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore, suscipit magni fugit aperiam doloribus voluptatibus nemo, magnam, odit eligendi amet blanditiis. Repudiandae eligendi praesentium, cum earum illum et fuga eaque molestiae veritatis atque cupiditate necessitatibus eveniet. Perferendis perspiciatis voluptatem nisi explicabo dolorem tempora eius ducimus. Esse id consequuntur dolore nihil aliquid, molestias ad blanditiis a laborum illo, debitis praesentium maiores cupiditate tempora vitae culpa voluptas. Nam mollitia aut omnis sequi facilis voluptatibus voluptas. Assumenda quis exercitationem sint laboriosam repellat officia praesentium quos, quisquam, dolor, temporibus aliquid. Odio eveniet voluptatibus quo numquam omnis repellendus at iste totam eaque quos nostrum ducimus nisi, nobis unde. Inventore, atque impedit nam corrupti optio ex commodi hic, laudantium fugit odio, veritatis consequuntur magni expedita repudiandae. Sit ullam doloremque magni, maiores porro distinctio esse cumque eum.",
+      "author": "YAQUT"
+    },
+    {
+      "id": 3,
+      "title": "React Developer Tools",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore, suscipit magni fugit aperiam doloribus voluptatibus nemo, magnam, odit eligendi amet blanditiis. Repudiandae eligendi praesentium, cum earum illum et fuga eaque molestiae veritatis atque cupiditate necessitatibus eveniet. Perferendis perspiciatis voluptatem nisi explicabo dolorem tempora eius ducimus. Esse id consequuntur dolore nihil aliquid, molestias ad blanditiis a laborum illo, debitis praesentium maiores cupiditate tempora vitae culpa voluptas. Nam mollitia aut omnis sequi facilis voluptatibus voluptas. Assumenda quis exercitationem sint laboriosam repellat officia praesentium quos, quisquam, dolor, temporibus aliquid. Odio eveniet voluptatibus quo numquam omnis repellendus at iste totam eaque quos nostrum ducimus nisi, nobis unde. Inventore, atque impedit nam corrupti optio ex commodi hic, laudantium fugit odio, veritatis consequuntur magni expedita repudiandae. Sit ullam doloremque magni, maiores porro distinctio esse cumque eum.",
+      "author": "AYA"
+    }
+  ]
+}
